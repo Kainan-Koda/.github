@@ -1,4 +1,4 @@
-# Bondy C4 Model
+# Consulting Company
 
 [Conceito](https://c4model.com/)
 
