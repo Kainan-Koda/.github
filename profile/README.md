@@ -4,7 +4,7 @@
 
 ---
 
-# 💅 Conversão exponencial
+# Conversão exponencial
 
 | Repositório | Hospedagem | Descrição | URL Dev | URL Prod |
 |---|---|---|---|---|
